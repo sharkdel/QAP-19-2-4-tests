@@ -20,3 +20,5 @@ class TestCalc:
 
     def teardown(self):
         print('Выполнение метода Teardown')
+
+    
